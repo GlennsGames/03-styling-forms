@@ -133,6 +133,9 @@ nav ul li a:hover {
 }
 
 /* Reservation Card */
+.form-label{
+  font-weight: bold;
+}
 .reservation-card {
   background-color: #ffffff;
   padding: 30px;
